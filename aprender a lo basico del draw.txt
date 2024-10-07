@@ -1,0 +1,38 @@
+
+<html>
+<head>
+<TITLE>Aprender a dibujar</TITLE>
+<center><h1><font color="red" face="Arial">Aprender a dibujar</font></h1><center>
+</head>
+<div class="footer">
+<p><font color="blue"face="arial">Toda la informacion de donde lo saque </p></font>
+  <li><a href="https://www.adobe.com/cr/creativecloud/illustration/discover/learning-to-draw.html">Bibliografía</a></li>
+</div>
+<div class="contenido">
+<center><body text="black" face="Times New Roman">Hola, bienviendo a mi pagina web de aprender a dibujar y saber metodologia del dibujo y comprender objetivos básicos fundamentales del dibujo.</center>
+<div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0dr_g_vmswJACg0JuGr38XxKQ27_dBUICQ&s">
+<h2>¿Cómo aprender a dibujar?</h2>
+<p>Aprender a dibujar es una habilidad que puede desarrollarse con práctica constante, observación y paciencia. Aquí te dejo una guía paso a paso para empezar a dibujar, sin importar tu nivel actual:</p>
+<li>Domina lo básico: Practica líneas, formas simples y proporciones.</li>
+<li>Mejora la observación: Dibuja lo que ves y usa técnicas como el contorno ciego</li>
+<li>Sombreado: Aprende a crear sombras y profundizar tus dibujos</li>
+<li>Estudia anatomía y perspectiva para dar realismo y volumen a tus dibujos.</li>
+<li>Usa referencias: Trabaja con imágenes reales para mejorar.</li>
+<li>Materiales: Usa lápices (2B es ideal) y papel de boceto.</li>
+<li>Aprende de errores y mejora con cada intento.</li>
+<li>Recursos: Aprovecha tutoriales en YouTube, libros y cursos online.</li>
+<li>Practica diariamente para progresar.</li>
+<li>Busca feedback para aprender de otros y desarrollar tu estilo propio.</li>
+<li>La clave es la constancia y disfrutar el proceso.</li>
+<canva><font color="black" face="Times New Roman">También puede usar canva para apredenr a dibujar o hacer diseños
+<p><a href="https://www.youtube.com/watch?v=hH_QrR6opTw" target" download>Descargar PDF</a></p>
+<img src="holasdw">
+<table border="1">
+</table>
+ 
+</head>
+
+
+
+</html>
